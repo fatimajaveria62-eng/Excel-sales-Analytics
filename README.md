@@ -1,7 +1,6 @@
 # Excel-sales-Analytics
-Here’s a professional and engaging README file tailored to your project, Javeria. It highlights your objectives, skills, and deliverables without sounding like a copy of the original:
 
-📘 README: Sales & Finance Analytics Project
+Sales & Finance Analytics Project
 🧭 Overview
 This project showcases a dual-reporting framework designed to empower business stakeholders with actionable insights across sales performance and financial health. By leveraging advanced Excel modeling, Power Query, and DAX, the reports deliver clarity, precision, and strategic value.
 
